@@ -43,5 +43,13 @@ window.MODELS = [
     alt: "Stylized articulated desk lamp, graphite metal arms, cream linen shade and terracotta cord",
     detail: "Original stylized desk lamp. Modeled procedurally in Blender (AI-assisted workflow), baked textures, ~70k triangles, glTF/GLB for the web."
     // no credit: original work
+  },
+  {
+    id: "backpack",
+    name: "Daypack Backpack",
+    file: "backpack.glb",
+    alt: "Stylized charcoal waxed-canvas backpack with burnt-orange zip pulls and patch, front pocket, straps and an open side zip showing a light lining",
+    detail: "Original stylized backpack. Modeled procedurally in Blender (AI-assisted workflow), baked textures, ~68k triangles, glTF/GLB for the web."
+    // no credit: original work
   }
 ];
