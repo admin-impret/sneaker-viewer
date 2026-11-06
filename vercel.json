@@ -1,4 +1,4 @@
 {
-  "buildCommand": "mkdir -p public && cp index.html models.js public/ && for f in sneaker mug headphones watch lamp backpack; do curl -fsSL https://github.com/admin-impret/sneaker-viewer/releases/download/v1.0/$f.glb -o public/$f.glb; done",
+  "buildCommand": "mkdir -p public && cp index.html models.js public/ && for f in sneaker mug headphones watch lamp backpack rangefinder; do curl -fsSL https://github.com/admin-impret/sneaker-viewer/releases/download/v1.0/$f.glb -o public/$f.glb; done",
   "outputDirectory": "public"
 }
