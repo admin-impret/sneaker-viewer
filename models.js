@@ -11,5 +11,29 @@ window.MODELS = [
     alt: "Stylized low-profile sneaker, blue knit upper with yellow heel accents and white sole",
     detail: "Original stylized product model. Modeled procedurally in Blender (AI-assisted workflow), baked textures, ~59k triangles, glTF/GLB for the web."
     // no credit: original work
+  },
+  {
+    id: "mug",
+    name: "Stylized Ceramic Mug",
+    file: "mug.glb",
+    alt: "Stylized ceramic mug",
+    detail: "Original stylized product model. Modeled procedurally in Blender (AI-assisted workflow), baked textures, ~29k triangles, glTF/GLB for the web."
+    // no credit: original work
+  },
+  {
+    id: "headphones",
+    name: "Over-Ear Headphones",
+    file: "headphones.glb",
+    alt: "Stylized closed-back over-ear headphones",
+    detail: "Original stylized closed-back headphones. Modeled procedurally in Blender (AI-assisted workflow), baked textures, ~68k triangles, glTF/GLB for the web."
+    // no credit: original work
+  },
+  {
+    id: "watch",
+    name: "Dress Watch",
+    file: "watch.glb",
+    alt: "Stylized analog dress watch",
+    detail: "Original stylized analog dress watch. Modeled procedurally in Blender (AI-assisted workflow), baked textures, ~54k triangles, glTF/GLB for the web."
+    // no credit: original work
   }
 ];
