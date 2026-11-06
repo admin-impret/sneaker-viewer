@@ -51,5 +51,13 @@ window.MODELS = [
     alt: "Stylized charcoal waxed-canvas backpack with burnt-orange zip pulls and patch, front pocket, straps and an open side zip showing a light lining",
     detail: "Original stylized backpack. Modeled procedurally in Blender (AI-assisted workflow), baked textures, ~68k triangles, glTF/GLB for the web."
     // no credit: original work
+  },
+  {
+    id: "rangefinder",
+    name: "Vintage Rangefinder Camera",
+    file: "rangefinder.glb",
+    alt: "Original vintage 35mm rangefinder camera with black leatherette, brushed metal plates, knurled dials and a transparent glass lens",
+    detail: "Original vintage rangefinder camera. Modeled procedurally in Blender (AI-assisted workflow), baked textures, ~85k triangles, glTF/GLB for the web."
+    // no credit: original work
   }
 ];
