@@ -117,7 +117,6 @@
     const mv = document.createElement('model-viewer');
     // lazy: only load the model when the card is near the viewport
     mv.setAttribute('loading', 'lazy');
-    mv.setAttribute('reveal', 'interaction');
     mv.setAttribute('src', m.file);
     mv.setAttribute('alt', m.alt || m.name);
     mv.setAttribute('camera-controls', '');
